@@ -15,7 +15,7 @@ Disclaimer: This is purely an analytical exercise to demonstrate a POC and not t
 
 **Architecture**
 
-![Screen Shot 2024-04-07 at 6.20.12 PM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fhm%2Ff57vgfb54mz2nt4133frd9t40000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_gHxMIt%2FScreen%20Shot%202024-04-07%20at%206.20.12%20PM.png)
+![Architecture](assets/Architecture.png)
 
 This pipeline:
    1. pulls the data from Coincap API 
@@ -59,10 +59,10 @@ The **Exchange** endpoint is used to provide trading data on each exchange at th
 More information on those from Coincap data below: 
 
 Assets (As defined by Coincap website):
-![Screen Shot 2024-04-07 at 4.55.44 PM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fhm%2Ff57vgfb54mz2nt4133frd9t40000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_DmzFC4%2FScreen%20Shot%202024-04-07%20at%204.55.44%20PM.png)
+![Assets](assets/Assets.png)
 
 Exchanges (As defined by Coincap website):
-![Screen Shot 2024-04-07 at 5.14.43 PM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fhm%2Ff57vgfb54mz2nt4133frd9t40000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_arLb8T%2FScreen%20Shot%202024-04-07%20at%205.14.43%20PM.png)
+![Exchanges](assets/Exchanges.png)
 
 
 **Instructions**
@@ -92,4 +92,4 @@ Below demonstrates a comparison of the suppy by Cryptocurrency at a point in tim
 
 This also shows the breakdown of the price at the point in time as well on the right side. 
 
-![Screen Shot 2024-04-07 at 7.28.16 PM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fhm%2Ff57vgfb54mz2nt4133frd9t40000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_XqKEwE%2FScreen%20Shot%202024-04-07%20at%207.28.16%20PM.png)
+!![Dashboard](assets/dashboard.png)
