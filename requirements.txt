@@ -1,0 +1,6 @@
+kafka-python
+pandas
+requests
+apache-beam[gcp]
+google-cloud
+spark-bigquery-connector

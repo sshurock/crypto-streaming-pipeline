@@ -1,0 +1,12 @@
+./venv
+./src/.ipynb_checkpoints
+./.idea
+.idea
+*.iml
+.DS_Store
+*/__pycache__/
+*.json
+*__pycache__/
+*src/.ipynb_checkpoints/
+.idea/
+*.idea/*
